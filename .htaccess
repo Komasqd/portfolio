@@ -1,0 +1,4 @@
+AuthType     Basic
+AuthName     Y.y portfolio
+AuthUserFile ./pw/.htpasswd
+require valid-user
